@@ -1,1 +1,1 @@
-# Amazon-Clone
+Responsive Amazon clone Using Vanilla js 
